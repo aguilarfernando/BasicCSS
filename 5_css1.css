@@ -18,7 +18,8 @@ h2{
     padding-right: 40px;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin-right: 380px;
+    width: 850px;
+    margin: 20px;
     line-height: 30px;
 }
 
@@ -50,4 +51,5 @@ th{
 td{
     background-color: white;
 }
+
 
