@@ -1,0 +1,53 @@
+body {
+  background-color: lightblue;
+ 
+}
+h1 {
+  text-align: center;
+  font-family:Arial;
+  font-size: 48px;
+}
+h2{
+    font-family:Arial;
+}
+
+#paragraph2 {
+    border: 3px solid green;
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+    line-height: 30px;
+}
+
+.blue{
+    background-color:darkblue ;
+    color: white;
+    padding: 10px;
+}
+
+a {
+    color: darkblue;
+}
+
+p a{
+    color: darkred;
+}
+
+ol{
+    list-style-type: decimal-leading-zero;
+}
+
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th{
+    background-color: lightgrey;
+}
+td{
+    background-color: white;
+}
+
